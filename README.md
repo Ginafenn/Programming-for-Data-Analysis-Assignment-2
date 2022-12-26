@@ -47,4 +47,6 @@ Author: Regina Fennessy
 
 7.https://www.geeksforgeeks.org/how-to-add-header-row-to-a-pandas-dataframe/
 
-7.https://docs.python.org/3/library/statistics.html
+8.https://docs.python.org/3/library/statistics.html
+
+9.https://www.kaggle.com/code/patrickjellison/classification-models-with-pca-reduction
